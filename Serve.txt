@@ -1,0 +1,29 @@
+默认：
+username：root
+pwd：root
+
+主机ip:
+192.168.1.135
+
+
+虚拟机：{
+
+
+CentOS-7.1
+ip：192.168.1.195
+username：roo
+pwd：wan199784
+MySQL（Docker）：
+	{
+		端口：12345
+		username：root
+		pwd：root	
+	}
+}
+阿里云：
+ip：39.103.208.148
+PVN——Pwd：Zjj218
+username：root
+pwd：zjj4019X
+
+
